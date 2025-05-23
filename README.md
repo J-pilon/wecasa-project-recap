@@ -8,7 +8,7 @@ This repository highlights my contributions as a full-stack software developer o
 
 ---
 
-![Wecasa case study](IMG_Case-study-page_Hero_Macbook.png)
+![Wecasa case study](wecasa-case-study.png)
 
 ## Full-Stack Developer – Wecasa Application
 
